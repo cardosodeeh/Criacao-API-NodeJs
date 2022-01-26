@@ -5,19 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="28dfbdcf-34af-469c-8bc8-76fd8ac9129c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Criacao-API-NodeJs.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/banco-de-dados/criarTabelas.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/banco-de-dados/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/rotas/fornecedores/ModeloTabelaFornecedor.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/rotas/fornecedores/fornecedor.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/rotas/fornecedores/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/rotas/fornecedores/tabelaFornecedor.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/default.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API/rotas/fornecedores/fornecedor.js" beforeDir="false" afterPath="$PROJECT_DIR$/API/rotas/fornecedores/fornecedor.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API/rotas/fornecedores/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/API/rotas/fornecedores/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API/rotas/fornecedores/tabelaFornecedor.js" beforeDir="false" afterPath="$PROJECT_DIR$/API/rotas/fornecedores/tabelaFornecedor.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,6 +70,9 @@
       <workItem from="1638209077986" duration="740000" />
       <workItem from="1638210146947" duration="9377000" />
       <workItem from="1638377600961" duration="1785000" />
+      <workItem from="1639072002431" duration="81000" />
+      <workItem from="1642005415429" duration="4927000" />
+      <workItem from="1642105232743" duration="1464000" />
     </task>
     <servers />
   </component>
