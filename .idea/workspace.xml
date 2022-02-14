@@ -5,7 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="28dfbdcf-34af-469c-8bc8-76fd8ac9129c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/API/Serializador.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API/erros/ValorNaoSuportado.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/API/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API/rotas/fornecedores/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/API/rotas/fornecedores/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API/rotas/fornecedores/tabelaFornecedor.js" beforeDir="false" afterPath="$PROJECT_DIR$/API/rotas/fornecedores/tabelaFornecedor.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +85,7 @@
       <workItem from="1644354298765" duration="3000" />
       <workItem from="1644427875712" duration="2441000" />
       <workItem from="1644516972593" duration="6204000" />
+      <workItem from="1644873784993" duration="4496000" />
     </task>
     <servers />
   </component>
